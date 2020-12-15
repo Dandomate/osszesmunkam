@@ -1,0 +1,46 @@
+header {
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 5px rgb(0, 247, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 100px;
+    padding: 0%;
+    text-align: center;
+    background-color: rgb(41, 41, 41);
+    background-image: url("kep/hatter.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+body {
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    background-size: auto;
+    width: auto;
+    height: auto;
+}
+
+#section {
+    background-image: url("kep/hatter2.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    background-size: auto;
+    width: auto;
+    height: auto;
+}
+
+footer {
+    background-color: rgb(41, 41, 41);
+    background-image: url("kep/hatter.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    text-shadow: 5px 5px 8px rgb(0, 247, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 40px;
+    text-align: center;
+}
